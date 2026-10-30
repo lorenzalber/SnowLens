@@ -1,0 +1,25 @@
+Category,Qty ordered,Component,Part number,Supplier,Unit price (EUR),Total (EUR)
+Sensors/Actuators,1,GPS module,GY-NEO6MV2 (u-blox NEO-6M),AliExpress,2.59,2.59
+Sensors/Actuators,3,Temperature sensor,BMP280 breakout,AliExpress,1.07,3.21
+Sensors/Actuators,1,Transparent OLED 1.51in 128x64 (SSD1306),Waveshare 1.51inch Transparent OLED,AliExpress,21.40,21.40
+ICs,2,Microcontroller,Microchip ATMEGA328P-AU,LCSC,2.23,4.46
+ICs,2,LiPo charger + boost converter,TOPPOWER TP5400,LCSC,1.11,2.22
+ICs,2,USB-to-serial converter,WCH CH340G,LCSC,0.51,1.02
+Connectors/Misc,2,USB-C receptacle,BXCONN UC09-0016F00P11,LCSC,0.68,1.36
+Connectors/Misc,5,Crystal 16 MHz,TAITIEN XIHCELNANF-16MHZ,LCSC,0.53,0.53
+Connectors/Misc,1,Toggle switch,1MS4T1B1M1RE,Farnell,2.22,2.22
+Connectors/Misc,1,Push button,TS02-66-50-BK-160-LCR-D,DigiKey,0.11,0.11
+Connectors/Misc,20,Pin headers 2.54 mm,XFCN PZ254V-11-04P,LCSC,0.40,0.40
+Connectors/Misc,10,LED 0805,LSM0805412V,DigiKey,3.05,3.05
+Resistors (0805),100,0 Ohm,UNI-ROYAL 0805W8F0000T5E,LCSC,0.17,0.17
+Resistors (0805),100,1.2 Ohm,UNI-ROYAL 0805W8F120KT5E,LCSC,0.33,0.33
+Resistors (0805),100,1 kOhm,UNI-ROYAL 0805W8F1001T5E,LCSC,0.17,0.17
+Resistors (0805),100,4.7 kOhm,FOJAN FRC0805J472TS,LCSC,0.13,0.13
+Resistors (0805),100,10 kOhm,FOJAN FRC0805J103TS,LCSC,0.12,0.12
+Resistors (0805),100,1 MOhm,FOJAN FRC0805J105TS,LCSC,0.14,0.14
+Capacitors (0805),100,22 pF C0G,CCTC TCC0805COG220J500BT,LCSC,0.41,0.41
+Capacitors (0805),100,100 nF X7R,YAGEO CC0805KRX7R9BB104,LCSC,0.44,0.44
+Capacitors (0805),100,1 uF,Samsung CL21B105KBFNNNE,LCSC,0.47,0.47
+Capacitors (0805),100,10 uF,Samsung CL21A106KAYNNNE,LCSC,0.21,0.21
+Capacitors (0805),100,47 uF,Samsung CL21A476MQYNNNE,LCSC,0.30,0.30
+Capacitors,1,10 uF electrolytic,CX KS106M025C07RR0VH2FP0,LCSC,0.62,0.62
